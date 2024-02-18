@@ -1,0 +1,17 @@
+.highlight {
+  background-color: rgba(218, 197, 197, 0.557);
+  color: rgb(150, 54, 54);
+}
+
+span {
+  background-color: rgba(218, 197, 197, 0.557);
+  color: rgb(150, 54, 54);
+}
+div {
+  display: grid;
+  width: 50%;
+}
+mark {
+  background-color: rgba(169, 171, 168, 0.746);
+  color: green;
+}
